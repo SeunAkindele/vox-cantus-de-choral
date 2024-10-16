@@ -940,6 +940,21 @@ menu
 .card6 {
   background-image: url(../images/gallery-6.jpg);
 }
+.card7 {
+  background-image: url(../images/gallery-7.jpeg);
+}
+.card8 {
+  background-image: url(../images/gallery-8.jpeg);
+}
+.card9 {
+  background-image: url(../images/gallery-9.jpeg);
+}
+.card10 {
+  background-image: url(../images/gallery-10.jpeg);
+}
+.card11 {
+  background-image: url(../images/gallery-11.jpeg);
+}
 
 .info {
   position: relative;
